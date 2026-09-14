@@ -1,4 +1,4 @@
-#include "Peaje.h"
+#include "peaje.h"
 #include <iomanip>
 #include <iostream>
 using namespace std;
