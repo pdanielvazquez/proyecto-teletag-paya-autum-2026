@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Peaje.h"
+#include "peaje.h"
 using namespace std;
 
 // 1. Paso por referencia constante
